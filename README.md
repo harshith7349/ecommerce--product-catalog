@@ -35,8 +35,5 @@ ecommerce-product-catalog/
 │── README.md
 ```
 
-## 👩‍💻 Author
-
-**Thrupthi JM**
 
 GitHub: https://github.com/harshith7349/ecommerce--product-catalog/edit/main/README.md
