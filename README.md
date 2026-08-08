@@ -2,9 +2,7 @@
 
 A responsive E-Commerce Product Catalog built using HTML, CSS, and JavaScript.
 
-## 🚀 Live Demo
 
-🌐 https://thrupthi-product-catalog.netlify.app/
 
 ## ✨ Features
 
@@ -41,4 +39,4 @@ ecommerce-product-catalog/
 
 **Thrupthi JM**
 
-GitHub: https://github.com/thrupthi871
+GitHub: https://github.com/harshith7349/ecommerce--product-catalog/edit/main/README.md
